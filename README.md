@@ -1,5 +1,10 @@
+
 # Fitness-Subscription-Analytics
 Tableau analysis of customer retention, revenue forecasting, and CAC vs. LTV for a fitness subscription business.
+
+## Tableau Public
+
+[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/iffa.za1940/viz/fitness-subscription-analytics_17894568519760/CustomerCohort?publish=yes)
 
 ## Key Insights
 
